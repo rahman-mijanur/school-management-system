@@ -1,0 +1,14 @@
+{
+  "makefile.launchConfigurations": [
+    {
+      "cwd": "${workspaceFolder}",
+      "binaryPath": "${workspaceFolder}/bin/school.exe",
+      "binaryArgs": [],
+      "MIMode": "gdb",
+      "externalConsole": true
+    }
+  ],
+  "makefile.configureOnOpen": true,
+  "makefile.configureOnEdit": true,
+  "terminal.integrated.defaultProfile.windows": "Git Bash"
+}
